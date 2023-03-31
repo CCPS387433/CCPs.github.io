@@ -1,9 +1,10 @@
-nav li{
-  color: #6F2da8;
+p {
+  color: #6f2da8
   width: 20px;
   height: 70px;
-  font-family: 'raleway', sans-serif;
-  font-weight: bold 600;
+    font-size: 16pt;
+    font-weight: bold 600;
+    font-family: cursive;
+    background-color: violet;
 }
-
-  
+   
